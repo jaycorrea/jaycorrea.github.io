@@ -20,7 +20,7 @@ author: Juan Correa
 ###############################################
 
 navbar-links:
-  About Me: "sobre mim"
+  About Me: "aboutme"
   Resources:
     - facebook: "https://facebook.com"
     - Linkedin: "https://www.linkedin.com/"
