@@ -13,7 +13,7 @@
 title: Juan Ricardo Correa
 
 # Your name to show in the footer
-author: Juan Correa
+author: Juan Ricardo Correa
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -252,7 +252,7 @@ date_format: "%-d %B, %Y"
 timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 5
 
 kramdown:
